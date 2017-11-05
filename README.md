@@ -28,4 +28,4 @@ Install
 
 
 
-<a href="https://github.com/graffov87">by Created Charnou Vitaliy</a>
+<a href="https://github.com/graffov87">Created by Charnou Vitaliy</a>
